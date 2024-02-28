@@ -1,0 +1,11 @@
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Depreciation Calculator\Depreciation Calculator\bin\Debug\Depreciation Calculator.exe.config
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Depreciation Calculator\Depreciation Calculator\bin\Debug\Depreciation Calculator.exe
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Depreciation Calculator\Depreciation Calculator\bin\Debug\Depreciation Calculator.pdb
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Depreciation Calculator\Depreciation Calculator\obj\Debug\Depreciation Calculator.csproj.AssemblyReference.cache
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Depreciation Calculator\Depreciation Calculator\obj\Debug\Depreciation Calculator.csproj.SuggestedBindingRedirects.cache
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Depreciation Calculator\Depreciation Calculator\obj\Debug\Depreciation_Calculator.Form1.resources
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Depreciation Calculator\Depreciation Calculator\obj\Debug\Depreciation_Calculator.Properties.Resources.resources
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Depreciation Calculator\Depreciation Calculator\obj\Debug\Depreciation Calculator.csproj.GenerateResource.cache
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Depreciation Calculator\Depreciation Calculator\obj\Debug\Depreciation Calculator.csproj.CoreCompileInputs.cache
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Depreciation Calculator\Depreciation Calculator\obj\Debug\Depreciation Calculator.exe
+\\Server2\second semester 2023-2024\LAB802\79286_CC_APPSDEV22_1030_1230_PM_MW\79286-23220726\Desktop\PRELIM\Depreciation Calculator\Depreciation Calculator\obj\Debug\Depreciation Calculator.pdb
